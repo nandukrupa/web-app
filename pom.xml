@@ -5,7 +5,7 @@
   <artifactId>WebApp</artifactId>
   <packaging>war</packaging>
   <version>1.2-SNAPSHOT</version>
-  <name>WebApp Maven Webapp</name>
+ 
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -15,7 +15,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>WebApp</finalName>
-  </build>
+ 
 </project>
