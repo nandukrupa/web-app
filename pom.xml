@@ -4,7 +4,7 @@
   <groupId>lu.amazon.aws.demo</groupId>
   <artifactId>WebApp</artifactId>
   <packaging>war</packaging>
-  <version>5.0</version>
+  <version>6.0</version>
  
   <url>http://maven.apache.org</url>
   <dependencies>
